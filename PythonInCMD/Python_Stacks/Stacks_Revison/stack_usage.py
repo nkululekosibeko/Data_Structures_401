@@ -1,4 +1,4 @@
-from Data_Structures_401.PythonInCMD.Stacks_Revison.array_stack import ArrayStack
+from Data_Structures_401.PythonInCMD.Python_Stacks.Stacks_Revison.array_stack import ArrayStack
 
 if __name__ == '__main__':
     my_stack = ArrayStack()
